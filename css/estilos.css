@@ -1,0 +1,19 @@
+.mi-nav-logo{
+    height: 50px;
+    width: auto;
+}
+
+.mi-img-carousel{
+    height: 400px;
+    object-fit: cover;
+}
+
+.mi-fondo{
+    background-color: rgb(184, 247, 247);
+}
+
+.mi-letra{
+    color: rgb(0, 0, 0);
+    font-family: sans-serif;
+    font-weight: bold;
+}
